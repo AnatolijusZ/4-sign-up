@@ -9,8 +9,13 @@ main {
     margin-left: calc(50% - 400px);
 }
 
-div {
+.left-column {
     background-color: yellow;
-    width: 50%;
+    width: 40%;
+    float: left;
+}
+.right-column {
+    background-color: pink;
+    width: 60%;
     float: left;
 }
