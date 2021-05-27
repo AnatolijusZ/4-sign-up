@@ -14,8 +14,28 @@ main {
     width: 40%;
     float: left;
 }
+
+.main-title {
+    font-size: 50px;
+}
+.bottom-links {
+}
+
+.bottom-links > a {
+}
+
+.bottom-links > span {
+}
 .right-column {
     background-color: pink;
     width: 60%;
     float: left;
+}
+
+.close {
+
+}
+
+.form {
+    
 }
